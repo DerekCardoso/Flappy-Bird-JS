@@ -9,7 +9,7 @@ O jogo está sendo desenvolvido totalmente em JavaScript puro!
 Foram usados:
 
 - canvas para a definição do tamanho da tela
-- 
+
 - sprites em PNG de todos os elementos do jogo
 
 - efeito especial para queda e colisão do passado
